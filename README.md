@@ -1,6 +1,6 @@
 # Pricewatch Bot
 
-An example trading bot for [Saturn Network](https://saturn.network).
+An example trading bot for [Saturn Network](https://saturn.network). Trading bots make use of Saturn’s JavaScript client saturn.js 2 to interact with the exchange and make trades on your behalf.
 
 How to use the trading bots
 https://forum.saturn.network/t/saturn-trading-bot-guides/4046   
